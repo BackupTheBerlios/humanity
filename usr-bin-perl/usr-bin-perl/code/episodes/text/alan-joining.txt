@@ -96,7 +96,8 @@ him]
 Alan: You use joe too?
 
 Tony: Nah, I'm an Emacs man myself. But joe is much better than pico. You 
-should see our semi-annual Emacs vs. VI shootout.
+should see our Emacs vs. VI shootout in our semi-annual "Simple-Site 
+Playing with the Elements Day".
 
 [sits at the computer]
 
@@ -115,17 +116,17 @@ Alan: They sound like sick people to me.
 
 Tony: they are. But my best friends are sick.
 
-Alan: Maybe I'm new here, but can't you prepare a page or a small site, with
-all of these URLs already in place? 
+Alan: Maybe I'm just new here, but can't you prepare a page or a 
+small site, with all of these URLs already in place? 
 
 Tony: Great idea! Tell you what, I'll work on it now.
 
 Alan: And what should I do?
 
 Tony: Learn Perl. Take your time. And, BTW, you can't avoid reading the man
-pages, but it's not the best source to learn Perl from.
+pages, but it's not the best source to _start_ learning Perl from.
 
-Alan: OK. Just learn.
+Alan: OK. I'll just learn.
 
 Tony: And write some programs. You know: the Hanoi Towers, Copy a file. Hmmm...
 I should prepare a list of exercises.
@@ -144,11 +145,11 @@ Alan: Hey. I understand you are installing Linux on my computer.
 Michelle: Yep. Mandrake 8.2. Now it installs all the packages. Did you
 read "Back to Basics" by Joel Spolsky?
 
-Alan: No, net yet. Albeit I read about him on Slashdot.
+Alan: No, not yet. Albeit I read about him on Slashdot.
 
 Michelle: Brilliant article. Do so. You see this is a 1.7 giga-hertz machine,
 and if something runs fine here, it does not mean it would on our 
-extremely loaded server. Makes sure your algorithms are not braindead.
+extremely loaded server. Make sure your algorithms are sane.
 
 Alan: Can I know your name before this discussion goes any further?
 
@@ -179,7 +180,7 @@ Robert: Hey Mik, and who might you be?
 Alan: I'm Alan, the new intern.
 
 Robert: Oh, now I remember. Alan. I guarantee you that I'll forget
-your name, so please don't mind if I ask you what it is.
+your name, so please don't mind if I ask you what it is. Again.
 
 Alan: That's OK. I tell my name to people on the time, and I'm not 
 unlike that either. Back in the university more people know me by name
@@ -194,7 +195,7 @@ about the Tao of Programming.
 Alan: The Tao of Programming.
 
 Robert: That's right. How to become a good programmer. And how to become
-one as quickly as possible. In the One True Way, trademark.
+one as quickly as possible. In the One True Way.
 
 Alan: Do you have schedules, BTW?
 
@@ -208,6 +209,8 @@ code, and usually can't get anything done anyway. Another thing is
 that both me, being the CTO and the CEO are voluntarist at hearts. 
 
 Alan: And Linux is the living proof.
+
+[Pause]
 
 Robert: Did I mention I'm the CTO?
 
