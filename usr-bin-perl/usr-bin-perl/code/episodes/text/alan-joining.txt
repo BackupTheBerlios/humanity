@@ -23,7 +23,7 @@ Paul: I am not going to maintain a Python script.
 
 Tony: I'll maintain it for you.
 
-Paul: No, you won't. Re-write in Perl.
+Paul: No, you won't. Re-write it in Perl.
 
 Tony: But Python has...
 
@@ -41,7 +41,7 @@ a 100,000 lines + codebase, not about a 20-liner.
 Paul: A little calculation. Let's suppose I want to add a flag. A fix
 for it would take 1 minute to write and debug. Rewriting an entire 
 script from scratch would take half an hour. Which is better? Hmmm...
-Hard decision.
+hard decision.
 
 Tony: I think sometimes it's better to start over.
 
@@ -152,8 +152,9 @@ extremely loaded server. Makes sure your algorithms are not braindead.
 
 Alan: Can I know your name before this discussion goes any further?
 
-Michelle: Sorry. Michelle Slavsky. Prima Hackeressa here. Not the best
-hacker and not the CTO, but more experienced than Tanya. For now, at least.
+Michelle: Sorry. Michelle Slavsky. Prima Hackeressa here. Not necessarily
+the best hacker and not the CTO, but more experienced than Tanya. For 
+now, at least.
 
 Alan: Why?
 
@@ -257,6 +258,9 @@ pole. And meters, mind you are over three times longer than feet.
 
 [Cut]
 
+
+[Cut]
+
 Black Screen: 
 
 Message: Later that day.
@@ -333,40 +337,3 @@ usually should not do...
 
 
 
-For another episode:
-
-[Linus Torvalds Enters. Applause]
-
-Linus: Hello.
-
-Tony: Hi! You are Linus Torvalds, right?
-
-Linus: Yes.
-
-Tony: Nice to meet you. They shake hands.
-
-[Tony gets back to sitting next to the computer]
-
-[Pause]
-
-Linus [waits a little]: Isn't there something you want to ask me 
-or say to me? The patch penguin fiasco? BitKeeper? The Dave Jones Tree?
-
-Tony: Actually, there is one. [Turns to Linus] You're disturbing me.
-
-.
-.
-.
-
-Linus: I met Tony. He was not excited to meet me at all.
-
-Tim: He gets this way. You should have seen the day that Sarah Michelle 
-Gellar came to visit.
-
-Linus: Let me guess - you host a "Buffy" fan site.
-
-Tim: 5th place on Google, and it's of one of our employees.
-
-Linus: Of Which one?
-
-Tim: [shrugs] Of Tony of course. He is addicted to the show.
