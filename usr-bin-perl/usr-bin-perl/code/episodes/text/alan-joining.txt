@@ -1,3 +1,15 @@
+Working Title: You don't become a hacker, until the fat lady sings.
+
+Abstract: Alan Summers, a new intern joins the company.
+
+Version: 0.2.5
+
+License: The Open Publication License Version 1.0 or at your option any
+greater version.
+
+Copyright by: Shlomi Fish
+
+----------------------
 
 [A Black Screen. Some Letters are written one by one to the screen in a fixed
 font]
