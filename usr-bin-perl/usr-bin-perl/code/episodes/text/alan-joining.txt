@@ -30,18 +30,18 @@ Tony: But Python has...
 Paul: I'm sure Perl has that too. If you need to install a CPAN module,
 you know you can always do it.
 
-Tony: OK. But in the worst case you can rewrite it from scratch?
+Tony: OK. But in the worst case you can rewrite it from scratch.
 
 Paul: And who will save me from the hit-men that Joel Sposlky is going
 to send to kill me?
 
-Tony: Look, I read this article. It's very nice. But he was talking about
+Tony: Look, I read his article. It's very nice. But he was talking about
 a 100,000 lines + codebase, not about a 20-liner.
 
 Paul: A little calculation. Let's suppose I want to add a flag. A fix
 for it would take 1 minute to write and debug. Rewriting an entire 
 script from scratch would take half an hour. Which is better? Hmmm...
-Hard Decision.
+Hard decision.
 
 Tony: I think sometimes it's better to start over.
 
@@ -55,7 +55,7 @@ Michelle: Hmmm... I love the smell of a new workstation in the morning.
 
 Now what should I install? [Picks up a few CDs] Gentoo? Takes
 too long to compile everything. [Puts the CD in a different stack] Debian? 
-[puts   Takes too long to upgrade to testing. Slackware? The package
+Takes too long to upgrade to testing. Slackware? The package
 management from hell. S.u.S.e? No.
 
 Red Hat? Mandrake is nicer. [Shouts to the other room] Hey what should I
@@ -73,7 +73,7 @@ Tony: Hi! Aren't you the new intern?
 
 Alan: Yes. Alan Summers [they shake hands].
 
-Tony: What's you story?
+Tony: What's your story?
 
 Alan: I'm an English student, studied a bit programming in the university.
 Installed Linux at home and got hooked. Don't know much but I'm getting
@@ -224,8 +224,8 @@ Michelle: Nobody. I'm guru-less, care-less and free.
 
 Alan: Cool. I wish I could feel that way.
 
-Michelle: You will and When you do, you'll know that You Were 
-Enlightened trademark.
+Michelle: You will and when you do, you'll know that You Were 
+Enlightened.
 
 Alan: OK.
 
